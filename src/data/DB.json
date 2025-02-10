@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Toyota Corolla",
+    "description": "Automóvil",
+    "price": 2000000,
+    "thumbnail": "img",
+    "code": 2023,
+    "stock": 5,
+    "id": 1
+  },
+  {
+    "title": "Honda Civic",
+    "description": "Automóvil",
+    "price": 2200000,
+    "thumbnail": "img",
+    "code": 2024,
+    "stock": 8,
+    "id": 2
+  },
+  {
+    "title": "Ford Mustang",
+    "description": "Automóvil",
+    "price": 3500000,
+    "thumbnail": "img",
+    "code": 2025,
+    "stock": 3,
+    "id": 3
+  }
+]
